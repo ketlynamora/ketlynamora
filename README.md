@@ -14,8 +14,11 @@
   <img align="center" alt="Ketlyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ketlyn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ketlyn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ketlyn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ketlyn-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ketlyn-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Ketlyn-Postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Ketlyn-Rabbit" height="30" width="40" src="https://symbols.getvecta.com/stencil_94/4_rabbitmq-icon.ebf2e8b0c3.svg">
+
   <img align="right" alt="Ketlyn-yoda" height="200" width="300" src="https://tenor.com/view/anime-girl-hi-hello-wave-gif-17416714.gif">
 </div>
   
