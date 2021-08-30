@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ketlyn Amora</h1>
+<h1 align="left">Olá 👋, Eu sou a Ketlyn Amora</h1>
 
-<h3 align="center">I am an information system student</h3>
+- 🔭 Hoje trabalho com back-end
+- 🌱 Estudando API | Microserviços | JavaScript 
+- 😄 Pronouns: ela/dela
 
 <div>
   <a href="https://github.com/ketlynamora">
