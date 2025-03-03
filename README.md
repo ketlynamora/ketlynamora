@@ -18,7 +18,6 @@
   <img align="center" alt="Ketlyn-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ketlyn-Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Ketlyn-Postgre" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Ketlyn-Rabbit" height="40" width="40" src="https://symbols.getvecta.com/stencil_94/4_rabbitmq-icon.ebf2e8b0c3.svg">
   <img align="center" alt="Ketlyn-Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" alt="Ketlyn-Dotnet" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
   <img align="right" alt="Ketlyn-yoda" height="200" width="300" src="https://tenor.com/view/anime-girl-hi-hello-wave-gif-17416714.gif">
